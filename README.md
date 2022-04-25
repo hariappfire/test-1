@@ -4,7 +4,7 @@
 [Place 3](#places-3-other-example)
 
 ### Place 1
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+Here it is in Mas. Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
 
 An h1 header
