@@ -20,8 +20,6 @@ look like:
   * this one
   * that one
   * the other one
-![image](https://user-images.githubusercontent.com/47878078/172359865-09e6fc00-0bff-44e4-9fcc-46ba1104f70f.png)
-
 
 
 
