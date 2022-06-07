@@ -20,7 +20,7 @@ look like:
   * this one
   * that one
   * the other one
-<img width="657" alt="image" src="https://user-images.githubusercontent.com/47878078/172355804-597ca9f3-18b0-40d6-8be2-658074bf01f7.png">
+
 
 
 
